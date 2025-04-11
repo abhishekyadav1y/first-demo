@@ -1,2 +1,2 @@
 # first-demo
-it is trail for git &amp; github
+It is trail for git &amp; github
